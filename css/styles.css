@@ -338,6 +338,7 @@ a {
   text-decoration: none;
   color: #2f2c2c;
   transition: all 0.15s linear; }
+ 
 
 p {
   -webkit-margin-before: 0;
@@ -4888,7 +4889,7 @@ textarea {
     color: #2f2c2c; }
   .pricing-tables-colored .pricing-tables-item:hover .btn {
     border-color: transparent;
-    background-color: #2f2c2c; }
+    background-color: #fff; }
   .pricing-tables-colored .pricing-tables-item:hover .pricing-title {
     color: #2f2c2c; }
 
